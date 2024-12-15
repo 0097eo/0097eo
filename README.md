@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Otieno</h1>
-<h3 align="center">A passionate upcoming developer from Kenya</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🌱 I’m currently learning **some cool stuff**
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **emmanuelokello294@gmail.com**
-
-- ⚡ Fun fact **I drink a lot of coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

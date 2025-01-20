@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Otieno</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **some cool stuff**
+- 🌱 I’m currently learning **mobile application development**
 
 - 💬 Ask me about **Web Development**
 

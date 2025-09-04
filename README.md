@@ -5,8 +5,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/0097eo)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:emmanuelokello294@gmail.com)
 
-📍 **Location:** Kenya  
-📞 **Phone:** +254 706446211
+**Location:** Kenya  
+**Phone:** +254 706446211
 
 ---
 
@@ -14,7 +14,7 @@
 
 Motivated and detail-oriented Full Stack Software Developer with experience in designing and building scalable applications. I specialize in creating impactful business solutions using modern web technologies. My passion lies in solving complex problems through clean, efficient code and delivering exceptional user experiences.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)

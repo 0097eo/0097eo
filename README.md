@@ -10,9 +10,9 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Motivated and detail-oriented Full Stack Software Developer with **2+ years of experience** designing and building scalable applications. I specialize in creating impactful fintech and business solutions using modern web technologies. My passion lies in solving complex problems through clean, efficient code and delivering exceptional user experiences.
+Motivated and detail-oriented Full Stack Software Developer with experience in designing and building scalable applications. I specialize in creating impactful business solutions using modern web technologies. My passion lies in solving complex problems through clean, efficient code and delivering exceptional user experiences.
 
 ## 🛠️ Technical Skills
 
@@ -42,22 +42,16 @@ Motivated and detail-oriented Full Stack Software Developer with **2+ years of e
 
 **Development Practices:** Agile/Scrum, Unit Testing (Pytest, Jest), CI/CD, Performance Optimization
 
-## 📈 GitHub Stats
 
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=0097eo&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0097eo&layout=compact&theme=radical)
-
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always open to discussing new opportunities, collaborations, or interesting projects. Feel free to reach out!
 
-- 💼 **LinkedIn:** [Emmanuel Otieno](https://www.linkedin.com/in/emmanuel-otieno-4b7108234/)
-- 📧 **Email:** [emmanuelokello294@gmail.com](mailto:emmanuelokello294@gmail.com)
-- 🐱 **GitHub:** [@0097eo](https://github.com/0097eo)
+- **LinkedIn:** [Emmanuel Otieno](https://www.linkedin.com/in/emmanuel-otieno-4b7108234/)
+- **Email:** [emmanuelokello294@gmail.com](mailto:emmanuelokello294@gmail.com)
 
 ---
 
-⭐ **Fun Fact:** I'm passionate about fintech solutions and love building applications that make financial services more accessible!
+**Fun Fact:** I'm passionate about fintech solutions and love building applications that make financial services more accessible!
 
 > "Clean code always looks like it was written by someone who cares." - Michael Feathers

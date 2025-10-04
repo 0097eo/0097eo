@@ -36,8 +36,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-**Development Practices:** Agile/Scrum, Unit Testing (Pytest, Jest), CI/CD, Performance Optimization
-
 
 ## Let's Connect
 

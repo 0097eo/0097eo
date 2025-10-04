@@ -10,10 +10,6 @@
 
 ---
 
-## About Me
-
-Motivated and detail-oriented Full Stack Software Developer with experience in designing and building scalable applications. I specialize in creating impactful business solutions using modern web technologies. My passion lies in solving complex problems through clean, efficient code and delivering exceptional user experiences.
-
 ## Technical Skills
 
 ### Languages & Frameworks
